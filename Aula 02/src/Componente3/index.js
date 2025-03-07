@@ -2,9 +2,9 @@ import { View, Text } from 'react-native';
 import {viewStyle, textStyle} from './style'
 
 function Componente3(){  
-  let nome = 'Isaque Silva Venancio';
-  let dataNascimento = '05/03/2005';
-  let idade = 19;
+  let nome = 'Ruan Fernandes Mendonca';
+  let dataNascimento = '05/06/2004';
+  let idade = 20;
 
   return(
     <View style={viewStyle.espacamentoEsquerda}>
